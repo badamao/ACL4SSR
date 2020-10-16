@@ -1,8 +1,12 @@
+;;https://git.io/JfNq3原始订阅1-5
 𝐌𝐮𝐬𝐢𝐜𝟏 = http,106.52.127.72,19951
 𝐌𝐮𝐬𝐢𝐜𝟐 = http,taron.top,100
 𝐌𝐮𝐬𝐢𝐜𝟑 = http,music.griouges.cn,39000
 𝐌𝐮𝐬𝐢𝐜𝟒 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
 𝐌𝐮𝐬𝐢𝐜𝟓 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
+;;https://leedscloud.space/index.php/2020/05/02/neteasemusicunblock/
 𝐌𝐮𝐬𝐢𝐜6 = http,aimer.one,2333
+;;Plus普拉斯影业免费节点https://t.me/Plus_Movie_Best/185
+;;https://pastebin.com/raw/4gSZxzFV
 𝐌𝐮𝐬𝐢𝐜7 = Shadowsocks,proxy.plusmedia.site,58080,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
 𝐌𝐮𝐬𝐢𝐜8 = Shadowsocks,proxy.plusmedia.site,58081,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
