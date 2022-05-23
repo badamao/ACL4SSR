@@ -11,7 +11,7 @@
 ruleset=迪士尼+,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list,86400
 ruleset=油管视频,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list,86400
 ruleset=油管视频,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list,86400
-ruleset=奈菲视频,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Netflix/Netflix.list,86400
+ruleset=奈飞视频,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Netflix/Netflix.list,86400
 ruleset=苹果服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Apple/Apple.list,86400
 ruleset=微软服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/test/rule/Clash/Microsoft/Microsoft.list,86400
 ruleset=电报服务,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list,86400
