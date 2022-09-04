@@ -1,0 +1,10 @@
+DOMAIN, direction2.is.autonavi.com
+DOMAIN, dispatcher.is.autonavi.com
+# 火币欧易
+DOMAIN-SUFFIX, okex.com
+DOMAIN-KEYWORD, tokenpocket
+DOMAIN-SUFFIX, mytokenpocket.vip
+DOMAIN-KEYWORD, imtoken
+DOMAIN-SUFFIX, imtoken.fans
+DOMAIN-SUFFIX, token.im
+DOMAIN-SUFFIX, tokenpocket.pro
