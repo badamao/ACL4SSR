@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,yqbimg.com
 DOMAIN-SUFFIX,yqbimg.net
 
 # other
-
 DOMAIN-SUFFIX, weixinbridge.com
 DOMAIN-SUFFIX, tbcache.com
 DOMAIN-SUFFIX, cainiao.com
@@ -54,3 +53,12 @@ DOMAIN-SUFFIX, yqbimg.net
 DOMAIN-SUFFIX, yqb.com
 #郑好办数据服务
 DOMAIN-SUFFIX, digitalcnzz.com
+#20220904
+DOMAIN-SUFFIX, jielong.co
+DOMAIN-SUFFIX, jianguoyun.com
+PROCESS-NAME,zerotier-one
+DOMAIN-SUFFIX,digitalcnzz.com
+DOMAIN-SUFFIX,linghun3.xyz
+DOMAIN-SUFFIX,miaoz.top
+#DOMAIN-SUFFIX,miaoz.xyz
+DOMAIN-SUFFIX,cnzz.com
