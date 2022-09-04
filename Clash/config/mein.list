@@ -1,0 +1,56 @@
+# NAME: PingAn
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-08-05 22:37:29
+# DOMAIN-SUFFIX: 27
+# TOTAL: 27
+# PingAn
+DOMAIN-SUFFIX,1010-0000.com
+DOMAIN-SUFFIX,18ebank.com
+DOMAIN-SUFFIX,1qianbao.cn
+DOMAIN-SUFFIX,1qianbao.com
+DOMAIN-SUFFIX,1qianbao.com.cn
+DOMAIN-SUFFIX,1qianbao.net
+DOMAIN-SUFFIX,4008000000.com
+DOMAIN-SUFFIX,4008824365.com
+DOMAIN-SUFFIX,4008880999.cn
+DOMAIN-SUFFIX,4008880999.com
+DOMAIN-SUFFIX,4008880999.net
+DOMAIN-SUFFIX,eka.cn
+DOMAIN-SUFFIX,ekapay.cn
+DOMAIN-SUFFIX,mingyuanfund.com
+DOMAIN-SUFFIX,olatop.cn
+DOMAIN-SUFFIX,olatop.com
+DOMAIN-SUFFIX,olatop.net
+DOMAIN-SUFFIX,pingan.com
+DOMAIN-SUFFIX,pingan.com.cn
+DOMAIN-SUFFIX,pingan.com.hk
+DOMAIN-SUFFIX,pinganonline.com.cn
+DOMAIN-SUFFIX,pinganventures.com
+DOMAIN-SUFFIX,yiqianbao.com.cn
+DOMAIN-SUFFIX,yiqianbao.net
+DOMAIN-SUFFIX,yqb.com
+DOMAIN-SUFFIX,yqbimg.com
+DOMAIN-SUFFIX,yqbimg.net
+
+# other
+
+DOMAIN-SUFFIX, weixinbridge.com
+DOMAIN-SUFFIX, tbcache.com
+DOMAIN-SUFFIX, cainiao.com
+DOMAIN-SUFFIX, oray.com
+DOMAIN-SUFFIX, oray.net
+DOMAIN-SUFFIX, 300hu.com
+DOMAIN-SUFFIX, pingan-static.vhallyun.com
+DOMAIN-SUFFIX, bankcomm.com
+DOMAIN-SUFFIX, getui.net
+DOMAIN-SUFFIX, getui.com
+DOMAIN-SUFFIX, unionpay.com
+DOMAIN-SUFFIX, 95516.com
+DOMAIN-SUFFIX, shujupie.com
+DOMAIN-SUFFIX, xueanquan.com
+#平安壹钱包
+DOMAIN-SUFFIX, yqbimg.net
+DOMAIN-SUFFIX, yqb.com
+#郑好办数据服务
+DOMAIN-SUFFIX, digitalcnzz.com
