@@ -1,2 +1,7 @@
-# CN
-GEOIP,CN
+
+#【Meta专属】GEOSITE规则
+# https://docs.metacubex.one/function/rule/geo
+GEOSITE,geolocation-cn
+# CN #GEOIP规则
+GEOIP,private,DIRECT,no-resolve
+GEOIP,cn
