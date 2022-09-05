@@ -1,5 +1,8 @@
 DOMAIN,direction2.is.autonavi.com
 DOMAIN,dispatcher.is.autonavi.com
+#【Meta专属】GEOSITE规则
+# https://docs.metacubex.one/function/rule/geo
+GEOSITE,geolocation-!cn
 # 火币欧易
 DOMAIN-SUFFIX,okex.com
 DOMAIN-KEYWORD,tokenpocket
@@ -8,3 +11,4 @@ DOMAIN-KEYWORD,imtoken
 DOMAIN-SUFFIX,imtoken.fans
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tokenpocket.pro
+
