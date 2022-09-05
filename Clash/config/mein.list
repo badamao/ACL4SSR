@@ -32,37 +32,50 @@ DOMAIN-SUFFIX,yiqianbao.net
 DOMAIN-SUFFIX,yqb.com
 DOMAIN-SUFFIX,yqbimg.com
 DOMAIN-SUFFIX,yqbimg.net
+DOMAIN-SUFFIX,alipay
+DOMAIN-SUFFIX,alipay-corp.com
+DOMAIN-SUFFIX,alipay-eco.com
+DOMAIN-SUFFIX,alipay-inc.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.net
+DOMAIN-SUFFIX,alipaydev.com
+DOMAIN-SUFFIX,alipaydns.com
+DOMAIN-SUFFIX,alipayeshop.com
+DOMAIN-SUFFIX,alipaylog.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,ifaa.org.cn
+DOMAIN-SUFFIX,sinopayment.com.cn
 
 # other
-DOMAIN-SUFFIX, weixinbridge.com
-DOMAIN-SUFFIX, tbcache.com
-DOMAIN-SUFFIX, cainiao.com
-DOMAIN-SUFFIX, oray.com
-DOMAIN-SUFFIX, oray.net
-DOMAIN-SUFFIX, 300hu.com
-DOMAIN-SUFFIX, pingan-static.vhallyun.com
-DOMAIN-SUFFIX, bankcomm.com
-DOMAIN-SUFFIX, getui.net
-DOMAIN-SUFFIX, getui.com
-DOMAIN-SUFFIX, unionpay.com
-DOMAIN-SUFFIX, 95516.com
-DOMAIN-SUFFIX, shujupie.com
-DOMAIN-SUFFIX, xueanquan.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,tbcache.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,300hu.com
+DOMAIN-SUFFIX,pingan-static.vhallyun.com
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,xueanquan.com
 #平安壹钱包
-DOMAIN-SUFFIX, yqbimg.net
-DOMAIN-SUFFIX, yqb.com
+DOMAIN-SUFFIX,yqbimg.net
+DOMAIN-SUFFIX,yqb.com
 #郑好办数据服务
-DOMAIN-SUFFIX, digitalcnzz.com
+DOMAIN-SUFFIX,digitalcnzz.com
 #20220904
-DOMAIN-SUFFIX, jielong.co
-DOMAIN-SUFFIX, jianguoyun.com
-PROCESS-NAME, zerotier-one
-DOMAIN-SUFFIX, digitalcnzz.com
-DOMAIN-SUFFIX, linghun3.xyz
-DOMAIN-SUFFIX, miaoz.top
-#DOMAIN-SUFFIX, miaoz.xyz
-DOMAIN-SUFFIX, cnzz.com
-DOMAIN-SUFFIX, orayimg.com
+DOMAIN-SUFFIX,jielong.co
+DOMAIN-SUFFIX,jianguoyun.com
+PROCESS-NAME,zerotier-one
+DOMAIN-SUFFIX,digitalcnzz.com
+DOMAIN-SUFFIX,linghun3.xyz
+DOMAIN-SUFFIX,miaoz.top
+#DOMAIN-SUFFIX,miaoz.xyz
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,orayimg.com
 #20220905
-DOMAIN-KEYWORD, alibaba
-DOMAIN-KEYWORD, alibabausercontent
+DOMAIN-KEYWORD,alibaba
+DOMAIN-KEYWORD,alibabausercontent
