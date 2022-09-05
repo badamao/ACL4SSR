@@ -3,5 +3,5 @@
 # https://docs.metacubex.one/function/rule/geo
 GEOSITE,geolocation-cn
 # CN #GEOIP规则
-GEOIP,private,DIRECT,no-resolve
+GEOIP,private,no-resolve
 GEOIP,cn
